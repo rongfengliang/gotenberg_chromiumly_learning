@@ -17,7 +17,6 @@ const pdf = require('pdf-parse');
                 console.log(data.numrender);
                 // PDF info
                 console.log(data.info);
-                // PDF metadata
                 // PDF.js version
                 // check https://mozilla.github.io/pdf.js/getting_started/
                 console.log(data.version);
