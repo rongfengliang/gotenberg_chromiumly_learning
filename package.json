@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-office",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chromiumly": "^2.0.7",
+    "pdf-parse": "^1.1.1",
+    "tslib": "^2.5.0"
+  }
+}
